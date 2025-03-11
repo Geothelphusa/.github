@@ -8,6 +8,6 @@ Geothelphusa
 
 We exist to provide OSS as an option for manufacturing workers in the digital transformation of their workplaces.
 
-<div align="center">
+<h2 align="center">
 <a href="https://t.co/3MOoY380LY"> Discord <a>
-</div>
+</h2>
